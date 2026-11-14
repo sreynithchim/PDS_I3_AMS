@@ -46,3 +46,5 @@ for n in range(4,10000):
         break
 
 print("Goldbach holds for every even number from 4 to 10000:", holds)
+
+

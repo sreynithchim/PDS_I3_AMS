@@ -32,3 +32,4 @@ for number in range(10,1000):
         count+=1
 print("Total Palindrome numbers between 10 and 1000:", count)
 
+

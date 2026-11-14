@@ -2,7 +2,6 @@
 def is_leap(year):
     return (year%4==0 and year%100!=0) or (year%400==0)
 
-
 """(b) Write days_in_month(month, year) that returns 28, 29, 30 or 31, or None if the month is not
 between 1 and 12. Use in to test the 30-day months (4, 6, 9, 11)."""
 def day_in_month(month,year):
@@ -31,5 +30,4 @@ for y in range(2000,2101):
     if is_leap(y):
         count+=1
 print("Leap years from 2000 to 2100 is ",count)
-
 
