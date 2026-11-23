@@ -1,0 +1,3 @@
+Name: Nith
+Age: 20
+Course: Data Science
